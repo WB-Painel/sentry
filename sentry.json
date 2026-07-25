@@ -8,7 +8,8 @@
     "SentryInteligence": true,
     "N": "1,2",
     "C": "3,4,5",
-    "S": "6,7,8,9,0"
+    "S": "6,7,8,9,0",
+    "MES": "2"
     },
     "urls": [
       {"Ref":"", "URL":"https://dailypost.ng/2026/07/21/world-cup-fifa-president-infantino-told-to-resign-after-spain-won-trophy/"},
