@@ -3,8 +3,12 @@
     "config": {
     "PackageNameEnabled": false,
     "PackageName": "com.android.chrome",
+    "CustomUserAgentEnabled": true,
+    "CustomUserAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/153.0.0.0 Mobile Safari/537.36",
+    "CustomUAEnabled": true,
+    "CustomUA": "Chromium,152,152.0.7977.82,Not?A_Brand,24,24.0.0.0,Google Chrome,152,152.0.7977.82",
     "BrowserEnabled": true,
-    "Browser": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/152.0.0.0 Mobile Safari/537.36",
+    "Browser": "",
     "SentryInteligence": true,
     "N": "1,2",
     "C": "3,4,5",
