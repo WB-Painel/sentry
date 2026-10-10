@@ -10,7 +10,7 @@
     "CustomScriptEnabled": true,
     "CustomScript": "",
     "CustomScriptEncryptionEnabled": true,
-    "CustomScriptEncryption": "",
+    "CustomScriptEncryption": "SHA-256",
     "BrowserEnabled": true,
     "Browser": "",
     "SentryInteligence": true,
