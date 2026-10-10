@@ -9,6 +9,8 @@
     "CustomUA": "Google Chrome,153,153.0.8010.47,Not_A Brand,8,8.0.0.0,Chromium,153,153.0.8010.47",
     "CustomScriptEnabled": true,
     "CustomScript": "",
+    "CustomScriptEncryptionEnabled": true,
+    "CustomScriptEncryption": "",
     "BrowserEnabled": true,
     "Browser": "",
     "SentryInteligence": true,
